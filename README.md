@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Uria Melaku</h1>
-<h3 align="center">3ND year CS student from Ariel University</h3>
+<h3 align="center">4ND year CS student from Ariel University</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/Qr46q411NwsAAAAC/work-working.gif">
 
 <h3 align="left">Connect with me:</h3>
