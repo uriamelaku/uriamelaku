@@ -6,8 +6,8 @@
 ---
 
 ### 🧠 About Me
-Software Engineer focused on **backend systems**, **client–server architecture**, and **low-level programming**.  
-Experienced in building **multithreaded systems**, **network protocols**, and **Linux-based applications**, with strong foundations in **OOP**, **system design**, and **algorithms**.
+Software Engineer focused on **backend development**, **systems programming**, and **client–server architectures**.  
+Strong background in **C++**, **Java**, and **Python**, with hands-on experience in **multithreading**, **networking**, and **Linux-based environments**.
 
 ---
 
@@ -18,18 +18,18 @@ Experienced in building **multithreaded systems**, **network protocols**, and **
 
 ---
 
-## 🚀 Core Technologies (Main Focus)
+## 🚀 Core Technologies
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="55"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="60"/>
 </p>
 
 ---
 
-## 🧩 Backend & Systems
+## 🧩 Backend & Systems Expertise
 
 - Client–Server Architecture
 - Multithreading & Concurrency
@@ -49,32 +49,6 @@ Experienced in building **multithreaded systems**, **network protocols**, and **
 - AWS (EC2, S3, IAM – Basics)
 - Debugging & Testing
 - Valgrind
-
----
-
-## 📌 Selected Projects
-
-### ♟ Viking Chess Game Engine (Java)
-- Turn-based game engine using OOP principles
-- Modular and extensible architecture
-- Focus on clean design and testability
-
-### 🎲 Catan Game Engine (C++ | Linux)
-- Backend-oriented game logic
-- State management and system design
-- STL, OOP, and modular architecture
-
-### 🌐 QUIC Protocol Simulation (Python | UDP)
-- Custom UDP client–server
-- Multi-stream transfer
-- ACK & timeout retransmission
-- Packet validation using Wireshark
-
-### ⚙️ Multithreaded MST System (C++ | Linux)
-- Client–server architecture
-- Thread pool & pipeline design
-- Leader–Follower pattern
-- Memory validation with Valgrind
 
 ---
 
