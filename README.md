@@ -55,15 +55,6 @@ C++ projects focused on multithreading, networking, thread pools, concurrency an
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=uriamelaku&show_icons=true&hide_border=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uriamelaku&layout=compact&hide_border=true" height="165"/>
-</p>
-
----
-
 ## 📫 Connect
 
 - 💼 LinkedIn: https://linkedin.com/in/uria-melaku-689921315
